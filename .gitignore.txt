@@ -1,0 +1,13 @@
+# Ignore configuration files
+/sites/*/settings.php
+
+# Ignore private files directory
+/sites/*/private/
+
+# Ignore files directory
+/sites/*/files/
+
+# Ignore the Drupal core and contributed modules and themes
+/core/
+/modules/
+/themes/
